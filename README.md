@@ -1,2 +1,4 @@
-# AI-TA-Study-1
-LLMs for Automated Grading
+# Language Models as TA Companions
+Grading proofs is a time-consuming task for many teaching assistants (TAs) that is prone to inconsistencies. This study explores whether LLMs can assist TAs with grading proofs and evaluates OpenAI’s o3-mini model using four prompting strategies. The Naïve with Solution (NS) prompt showed the highest alignment with human graders, but overall agreement remained low, especially for complex proof problems with multiple valid approacehs. Future work should compare LLM-human and human-human grading agreement to distinguish LLM limitations from the inherent subjectivity of proof evaluation.
+
+We provide the prompt templates used in our study in the [prompts](prompts) directory and the plots visualizing our results in the [plots](plots) directory.
