@@ -1,3 +1,4 @@
+# Proof Problems
 We selected four proof problems from an undergraduate proof-based computer science course, categorizing them into two distinct types: **objective problems** and **subjective problems**. 
 - The objective problems required students to apply proof techniques and principles learned in class directly. The grading rubric for these problems contained a single category, *solution correctness*, which consisted of multiple disjoint rubric items.
 - The subjective problems required students to construct proofs from scratch, allowing for numerous valid approaches. The grading rubric for these problems consisted of two categories, *solution quality* and *writing quality*, each containing multiple disjoint rubric items
